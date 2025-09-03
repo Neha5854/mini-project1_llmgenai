@@ -1,4 +1,5 @@
-Mini Project 1: Basics of NLP – Text Cleaning & Vectorization
+Mini Project 1: 
+Basics of NLP – Text Cleaning & Vectorization
 📌 Project Overview
 This project demonstrates Natural Language Processing (NLP) basics by applying text cleaning, preprocessing, and vectorization techniques on customer review data. The objective is to analyze e-commerce product reviews and build machine learning models for sentiment classification.
 
